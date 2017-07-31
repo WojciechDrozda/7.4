@@ -1,0 +1,28 @@
+{
+  "name": "modul-1",
+  "version": "1.0.0",
+  "description": "zadanie-2",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaktus83/my-first-repo.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Anna Adamowicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaktus83/my-first-repo/issues"
+  },
+  "homepage": "https://github.com/kaktus83/my-first-repo#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
